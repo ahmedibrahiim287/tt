@@ -1,0 +1,71 @@
+ <!-- <li>
+                <a href="#portfolio" className="page-scroll">
+                  Gallery
+                </a>
+              </li>
+ -->
+
+<nav id="menu" className="navbar navbar-default navbar-expand-md navbar-dark bg-dark  ">
+        <div className="container">
+          <div className="navbar-header">
+            <button
+              type="button"
+              className="navbar-toggle collapsed"
+              data-toggle="collapse"
+              data-target="#bs-example-navbar-collapse-1"
+            >
+              {" "}
+              <span className="sr-only">Toggle navigation</span>{" "}
+              <span className="icon-bar"></span>{" "}
+              <span className="icon-bar"></span>{" "}
+              <span className="icon-bar"></span>{" "}
+            </button>
+
+            <a className="navbar-brand page-scroll mx-auto" href="#page-top">
+            qsdasd
+          </a>{" "}
+          </div>
+
+          <div className="navbar-collapse collapse w-100 order-3 dual-collapse2 navbar-nav ml-auto" id="bs-example-navbar-collapse-1">
+            <ul className="nav navbar-nav navbar-right">
+              <li>
+                <a href="#about" className="page-scroll">
+                  About
+                </a>
+              </li>
+              <li>
+                <a href="#team" className="page-scroll">
+                Sponsors
+                </a>
+              </li>
+              <li>
+                <a href="#contact" className="page-scroll">
+                Contact us
+                </a>
+              </li>
+            </ul>
+
+
+
+            <ul className="nav navbar-collapse collapse w-100 order-1 order-md-0 dual-collapse2 navbar-nav mr-auto">
+            <li>
+                <a href="#features" className="page-scroll">
+                      Home
+                </a>
+              </li>
+              <li>
+                <a href="#testimonials" className="page-scroll">
+                      Attend
+                </a>
+              </li>
+              <li>
+                <a href="#services" className="page-scroll">
+                      Watch
+                </a>
+              </li>
+              </ul>
+
+
+          </div>
+        </div>
+      </nav>
